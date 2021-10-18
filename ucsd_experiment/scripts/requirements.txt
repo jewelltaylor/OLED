@@ -1,0 +1,4 @@
+numpy --no-index
+tensorflow_gpu --no-index
+tensorflow_probability --no-index
+scikit-learn --no-index
