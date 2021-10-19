@@ -91,6 +91,16 @@ a. Models are saved in the sup_mat/ucsd_experiment/models folder
 1. Change the working directory to sup_mat/ucsd_experiment/scripts and run test_trained.sh
 2. The results of the experiment are present in the corresponding log file
 
+## Citation 
+```
+@article{jewell2021oled,
+  title={OLED: One-Class Learned Encoder-Decoder Network with Adversarial Context Masking for Novelty Detection},
+  author={Jewell, John Taylor and Khazaie, Vahid Reza and Mohsenzadeh, Yalda},
+  journal={arXiv preprint arXiv:2103.14953},
+  year={2021}
+}
+```
+
 
 
 
