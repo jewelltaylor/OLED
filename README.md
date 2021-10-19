@@ -1,4 +1,11 @@
-### Introduction 
+## Introduction 
+This repostitiory contains code to run the experiments outlined in [OLED: One-Class Learned Encoder-Decoder Network with Adversarial Context Masking for Novelty Detection](https://arxiv.org/abs/2103.14953).
+
+<p align="center">
+<img width="979" alt="Screen Shot 2021-10-18 at 8 41 04 PM" src="https://user-images.githubusercontent.com/34798787/137825275-d34cf654-97e4-490c-b308-5f63bf89a75a.png">
+</p>
+
+## Running Experiments
 The following document contains detailed instructions to run the experiments described in the paper. In particular, there are four sections that correspond to running the four experiments:
 - MNIST Experiment 
 - CIFAR Experiment 
@@ -79,7 +86,6 @@ Download the data.zip from this [link](https://drive.google.com/drive/folders/1s
 #### Training
 1. Unzip the supplementary file sup_mat into a folder called sup_mat. Change the working directory to sup_mat/ucsd_experiment/scripts and run the train.sh
 a. Models are saved in the sup_mat/ucsd_experiment/models folder
-
 
 #### Testing
 1. Change the working directory to sup_mat/ucsd_experiment/scripts and run test_trained.sh
