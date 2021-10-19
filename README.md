@@ -26,7 +26,7 @@ Each shell script installs the required dependencies. A more thorough document o
 
 ## MNIST Experiment
 ### Data
-Download the [data.zip](https://drive.google.com/drive/folders/1NKB6B8IzicEzlC1b-2SIVAkMGyXwaBOX) from this link, unzip with name data, and include it in the mnist_experiment folder.
+Download the data.zip from this [link](https://drive.google.com/drive/folders/1NKB6B8IzicEzlC1b-2SIVAkMGyXwaBOX), unzip with name data, and include it in the mnist_experiment folder.
 
 ### Testing from Pretrained Models
 #### Testing
