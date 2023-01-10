@@ -93,11 +93,13 @@ a. Models are saved in the sup_mat/ucsd_experiment/models folder
 
 ## Citation 
 ```
-@article{jewell2021oled,
-  title={OLED: One-Class Learned Encoder-Decoder Network with Adversarial Context Masking for Novelty Detection},
-  author={Jewell, John Taylor and Khazaie, Vahid Reza and Mohsenzadeh, Yalda},
-  journal={arXiv preprint arXiv:2103.14953},
-  year={2021}
+@InProceedings{Jewell_2022_WACV,
+    author    = {Jewell, John Taylor and Khazaie, Vahid Reza and Mohsenzadeh, Yalda},
+    title     = {One-Class Learned Encoder-Decoder Network With Adversarial Context Masking for Novelty Detection},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2022},
+    pages     = {3591-3601}
 }
 ```
 
